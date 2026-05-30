@@ -1,11 +1,6 @@
 <img width="903" height="342" alt="image" src="https://github.com/user-attachments/assets/615b4c41-aff0-4378-8b0d-9fa9fd80e91a" />
 
-# Bonjour, je suis Marina 👋
-
-**Data Analyst / BI & Analytics Engineer**  
-Profil hybride à la croisée de la technique, du métier et de l’aide à la décision.
-
-Je transforme des données complexes en analyses fiables, dashboards lisibles et recommandations opérationnelles. Mon approche combine rigueur technique, compréhension business, qualité des données et communication claire auprès des utilisateurs métier.
+# Bonjour, je suis Marina et je transforme des données complexes en analyses fiables, dashboards lisibles et recommandations opérationnelles. Mon approche combine rigueur technique, compréhension business, qualité des données et communication claire auprès des utilisateurs métier.
 
 ---
 
